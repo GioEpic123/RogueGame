@@ -1,0 +1,870 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-04-12T22:47:38.807-07:00
+  initializedAtString: 2021-04-12T21:33:30.748-07:00
+  log:
+  - commitID: 51aca7ff8dc949a839e0cb00243e03acca07f448
+    mergeA: 
+    mergeB: 
+    authorName: GioEpic123
+    authorEmail: giovanni.quevedo5@gmail.com
+    commitEmail: giovanni.quevedo5@gmail.com
+    commitName: GioEpic123
+    summary: Trying something new with my boy antwon
+    description: 
+    timeString: 2021-04-07T16:27:03.000-07:00
+    commitTimeString: 2021-04-07T16:27:03.000-07:00
+    changes:
+    - path: Assets\FloorMat.mat
+      fullPath: D:\Unity\Projects\Tank Game\Assets\FloorMat.mat
+      projectPath: Assets\FloorMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\FloorMat.mat.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\FloorMat.mat.meta
+      projectPath: Assets\FloorMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TestScene.unity
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Scenes\TestScene.unity
+      projectPath: Assets\Scenes\TestScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Unity\Projects\Tank Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\Unity\Projects\Tank Game\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0e054dd6d019927f0b533f6c2231417a78ebc1a7
+    mergeA: 
+    mergeB: 
+    authorName: GioEpic123
+    authorEmail: giovanni.quevedo5@gmail.com
+    commitEmail: giovanni.quevedo5@gmail.com
+    commitName: GioEpic123
+    summary: Initial Commit
+    description: First One!
+    timeString: 2021-04-05T15:46:35.000-07:00
+    commitTimeString: 2021-04-05T15:46:35.000-07:00
+    changes:
+    - path: .collabignore
+      fullPath: D:\Unity\Projects\Tank Game\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vsconfig
+      fullPath: D:\Unity\Projects\Tank Game\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bullet.prefab
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Bullet.prefab
+      projectPath: Assets\Bullet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bullet.prefab.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Bullet.prefab.meta
+      projectPath: Assets\Bullet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\BulletBehavior.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\BulletBehavior.cs
+      projectPath: Assets\BulletBehavior.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\BulletBehavior.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\BulletBehavior.cs.meta
+      projectPath: Assets\BulletBehavior.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EmissRed.mat
+      fullPath: D:\Unity\Projects\Tank Game\Assets\EmissRed.mat
+      projectPath: Assets\EmissRed.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\EmissRed.mat.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\EmissRed.mat.meta
+      projectPath: Assets\EmissRed.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\GameManager.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\GameManager.cs
+      projectPath: Assets\GameManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\GameManager.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\GameManager.cs.meta
+      projectPath: Assets\GameManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\GunBehavior.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\GunBehavior.cs
+      projectPath: Assets\GunBehavior.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\GunBehavior.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\GunBehavior.cs.meta
+      projectPath: Assets\GunBehavior.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\IDamagable.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\IDamagable.cs
+      projectPath: Assets\IDamagable.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\IDamagable.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\IDamagable.cs.meta
+      projectPath: Assets\IDamagable.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMat.mat
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerMat.mat
+      projectPath: Assets\PlayerMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMat.mat.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerMat.mat.meta
+      projectPath: Assets\PlayerMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts.meta
+      projectPath: Assets\PlayerScripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts\PlayerScript.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts\PlayerScript.cs
+      projectPath: Assets\PlayerScripts\PlayerScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts\PlayerScript.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts\PlayerScript.cs.meta
+      projectPath: Assets\PlayerScripts\PlayerScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts\TankController.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts\TankController.cs
+      projectPath: Assets\PlayerScripts\TankController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts\TankController.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts\TankController.cs.meta
+      projectPath: Assets\PlayerScripts\TankController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts\TankInputs.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts\TankInputs.cs
+      projectPath: Assets\PlayerScripts\TankInputs.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerScripts\TankInputs.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\PlayerScripts\TankInputs.cs.meta
+      projectPath: Assets\PlayerScripts\TankInputs.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RecticleMat.mat
+      fullPath: D:\Unity\Projects\Tank Game\Assets\RecticleMat.mat
+      projectPath: Assets\RecticleMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RecticleMat.mat.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\RecticleMat.mat.meta
+      projectPath: Assets\RecticleMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TestScene.unity
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Scenes\TestScene.unity
+      projectPath: Assets\Scenes\TestScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TestScene.unity.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\Scenes\TestScene.unity.meta
+      projectPath: Assets\Scenes\TestScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets.meta
+      projectPath: Assets\TankAssets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_base.mtl
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_base.mtl
+      projectPath: Assets\TankAssets\tank_base.mtl
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_base.mtl.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_base.mtl.meta
+      projectPath: Assets\TankAssets\tank_base.mtl.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_base.obj
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_base.obj
+      projectPath: Assets\TankAssets\tank_base.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_base.obj.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_base.obj.meta
+      projectPath: Assets\TankAssets\tank_base.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_base.png
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_base.png
+      projectPath: Assets\TankAssets\tank_base.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_base.png.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_base.png.meta
+      projectPath: Assets\TankAssets\tank_base.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_head.mtl
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_head.mtl
+      projectPath: Assets\TankAssets\tank_head.mtl
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_head.mtl.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_head.mtl.meta
+      projectPath: Assets\TankAssets\tank_head.mtl.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_head.obj
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_head.obj
+      projectPath: Assets\TankAssets\tank_head.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_head.obj.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_head.obj.meta
+      projectPath: Assets\TankAssets\tank_head.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_head.png
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_head.png
+      projectPath: Assets\TankAssets\tank_head.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TankAssets\tank_head.png.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\TankAssets\tank_head.png.meta
+      projectPath: Assets\TankAssets\tank_head.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts.meta
+      projectPath: Assets\ThrowawayScripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts\PlayerController.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts\PlayerController.cs
+      projectPath: Assets\ThrowawayScripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts\PlayerController.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts\PlayerController.cs.meta
+      projectPath: Assets\ThrowawayScripts\PlayerController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts\PlayerMotor.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts\PlayerMotor.cs
+      projectPath: Assets\ThrowawayScripts\PlayerMotor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts\PlayerMotor.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts\PlayerMotor.cs.meta
+      projectPath: Assets\ThrowawayScripts\PlayerMotor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts\ThirdPersonMovement.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts\ThirdPersonMovement.cs
+      projectPath: Assets\ThrowawayScripts\ThirdPersonMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ThrowawayScripts\ThirdPersonMovement.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\ThrowawayScripts\ThirdPersonMovement.cs.meta
+      projectPath: Assets\ThrowawayScripts\ThirdPersonMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\iEnemy.cs
+      fullPath: D:\Unity\Projects\Tank Game\Assets\iEnemy.cs
+      projectPath: Assets\iEnemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\iEnemy.cs.meta
+      fullPath: D:\Unity\Projects\Tank Game\Assets\iEnemy.cs.meta
+      projectPath: Assets\iEnemy.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Unity\Projects\Tank Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\Unity\Projects\Tank Game\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: D:\Unity\Projects\Tank Game\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\Search.index
+      fullPath: D:\Unity\Projects\Tank Game\UserSettings\Search.index
+      projectPath: UserSettings\Search.index
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\Search.settings
+      fullPath: D:\Unity\Projects\Tank Game\UserSettings\Search.settings
+      projectPath: UserSettings\Search.settings
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c96c70e1d36fd126e215273bc006afb291a02e63
+    mergeA: 
+    mergeB: 
+    authorName: GioEpic123
+    authorEmail: giovanni.quevedo5@gmail.com
+    commitEmail: giovanni.quevedo5@gmail.com
+    commitName: GioEpic123
+    summary: Initial commit
+    description: 
+    timeString: 2021-04-05T15:44:41.000-07:00
+    commitTimeString: 2021-04-05T15:44:41.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Unity\Projects\Tank Game\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\Unity\Projects\Tank Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\Unity\Projects\Tank Game\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
