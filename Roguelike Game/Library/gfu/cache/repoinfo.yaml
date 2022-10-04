@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-09-06T17:20:04.993-07:00
-  initializedAtString: 2022-09-06T17:20:04.993-07:00
+  lastUpdatedAtString: 2022-10-04T14:23:25.511-07:00
+  initializedAtString: 2022-10-04T14:23:25.511-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/GioEpic123/RogueGame.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: origin/master
+    tracking: 
   currentConfigBranch:
     name: master
     remote:
-      name: origin
-      url: https://github.com/GioEpic123/RogueGame.git
-    trackingBranch: master
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/GioEpic123/RogueGame.git

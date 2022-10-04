@@ -296,37 +296,37 @@
         <HintPath>/Users/giovanniquevedo/Documents/2021.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Logging">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.UnityShim">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Api.45">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>/Users/giovanniquevedo/Documents/2021.3.9f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll</HintPath>
@@ -704,28 +704,28 @@
         <HintPath>/Users/giovanniquevedo/Documents/2021.3.9f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Environments">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core">
-        <HintPath>/Users/giovanniquevedo/Desktop/temp/Roguelike Game/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+        <HintPath>/Users/giovanniquevedo/Desktop/Game Repo/Roguelike Game/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
